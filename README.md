@@ -1,4 +1,4 @@
-
+![logo](https://raw.githubusercontent.com/NighatRaza/NighatRaza/main/git_header.gif)
 <h1 align="center">Hello, I'm Nighat Raza</h1>
 <h3 align="center">Web Developer and Data Science Enthusiast</h3>
 
