@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nighat Raza</h1>
 <h3 align="center">Web Developer and Data Science Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/NighatRaza/NighatRaza/main/about2.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/NighatRaza/NighatRaza/main/about4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nighatraza&label=Profile%20views&color=0e75b6&style=flat" alt="nighatraza" /> </p>
 
 - 🌱 I’m currently learning **Power BI, SQL, React JS and Machine Learning Python**
