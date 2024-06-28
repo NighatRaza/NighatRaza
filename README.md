@@ -5,8 +5,8 @@
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/NighatRaza/NighatRaza/main/about4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nighatraza&label=Profile%20views&color=0e75b6&style=flat" alt="nighatraza" /> </p>
 
-- 🎓 Computer Science Undergraduate
-- 💻 Web Development | Data Science Enthusiast
+- 🎓 Computer Science Undergraduate 
+- 💻 Web Development | Data Science Enthusiast 
 - 🌱 I’m currently learning **Power BI, SQL, React JS and Machine Learning Python**
 - 📚 Passionate about blending theory with hands-on practice
 - 🚀 Seeking to contribute to impactful projects
