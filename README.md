@@ -1,22 +1,29 @@
 <h1 align="center">Hello👋, I'm Nighat Raza</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nighatraza&label=Profile%20views&color=0e75b6&style=flat" alt="nighatraza" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=nighatraza&label=Profile%20views&color=0e75b6&style=flat" alt="nighatraza" /> 
+</p>
 
-- 🎓 BSCS'25 
-- 🌱 I’m currently learning **Data Analytics, Software Development and AI automation**
-- 📚 Passionate about blending theory with hands-on practice
-- 🚀 Seeking to contribute to impactful projects
-- 📫 How to reach me **nighatraza456@gmail.com**
+- 🎓 BSCS'25  
+- 🌱 I’m currently learning **Data Analytics, Software Development and AI automation**  
+- 📚 Passionate about blending theory with hands-on practice  
+- 🚀 Seeking to contribute to impactful projects  
+- 📫 How to reach me **nighatraza456@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nighat-raza-b70787218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nighat-raza-b70787218/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/nighatraza" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
-<a href="https://stackoverflow.com/users/27040512/nighat-raza" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack-overflow" height="30" width="40" />
-<a href="https://medium.com/@nighatraza456" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
+  <a href="https://linkedin.com/in/nighat-raza-b70787218/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/nighatraza" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/27040512/nighat-raza" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack-overflow" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@nighatraza456" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -57,11 +64,14 @@
 
   <!-- Tools -->
   <a href="https://n8n.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.gi
-  
- </p>
+    <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="40" height="40"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nighatraza&show_icons=true&locale=en&layout=compact" alt="nighatraza" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nighatraza&show_icons=true&locale=en&layout=compact" alt="nighatraza" />
+</p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nighatraza&" alt="nighatraza" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nighatraza&" alt="nighatraza" />
+</p>
