@@ -5,7 +5,7 @@
 </p>
 
 - 🎓 BSCS'25  
-- 🌱 I’m currently learning **Data Analytics, Software Development and AI automation**  
+- 🌱 I’m currently learning **Data Analytics and AI Development**  
 - 📚 Passionate about blending theory with hands-on practice  
 - 🚀 Seeking to contribute to impactful projects  
 - 📫 How to reach me **nighatraza456@gmail.com**  
